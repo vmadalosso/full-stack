@@ -1,4 +1,4 @@
-# Full-Stack - Trilha Formação Full-Stack da Rocketseat
+# Trilha Formação Full-Stack da Rocketseat
 
 Este repositório contém projetos e desafios práticos desenvolvidos durante a trilha Formação Full-Stack da Rocketseat. O repositório é dividido em dois diretórios:
 
